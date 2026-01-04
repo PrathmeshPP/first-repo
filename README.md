@@ -1,2 +1,3 @@
 # first-repo
-The First
+The First git repository
+Author- Prathmesh
